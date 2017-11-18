@@ -1,4 +1,4 @@
-## Your Name
+## Charles Emery
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -34,17 +34,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### UCL (2012 to 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Chemistry Bsc(hons)
 
-#### Any other qualifications
+- Cycling
 
-## Experience
+#### Yachtmaster Offshore (2016)
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+## skipper qualifications (list)
+
+**Mullen & Mullen** (2011 to date)    
+*Sales and Admin*  
+**Internships** (start_date to end_date)   
+*Wiggle/vineyar *  
